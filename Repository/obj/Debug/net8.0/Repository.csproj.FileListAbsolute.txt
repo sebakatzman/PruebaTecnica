@@ -1,0 +1,15 @@
+C:\ProyectosSeba\TecnicaBeProactive\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\ProyectosSeba\TecnicaBeProactive\Repository\bin\Debug\net8.0\Repository.dll
+C:\ProyectosSeba\TecnicaBeProactive\Repository\bin\Debug\net8.0\Repository.pdb
+C:\ProyectosSeba\TecnicaBeProactive\Repository\bin\Debug\net8.0\Domain.dll
+C:\ProyectosSeba\TecnicaBeProactive\Repository\bin\Debug\net8.0\Domain.pdb
+C:\ProyectosSeba\TecnicaBeProactive\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\ProyectosSeba\TecnicaBeProactive\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosSeba\TecnicaBeProactive\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\ProyectosSeba\TecnicaBeProactive\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\ProyectosSeba\TecnicaBeProactive\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\ProyectosSeba\TecnicaBeProactive\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\ProyectosSeba\TecnicaBeProactive\Repository\obj\Debug\net8.0\Repository.dll
+C:\ProyectosSeba\TecnicaBeProactive\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\ProyectosSeba\TecnicaBeProactive\Repository\obj\Debug\net8.0\Repository.pdb
+C:\ProyectosSeba\TecnicaBeProactive\Repository\obj\Debug\net8.0\ref\Repository.dll

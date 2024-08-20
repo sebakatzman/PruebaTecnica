@@ -1,0 +1,12 @@
+C:\ProyectosSeba\TecnicaBeProactive\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\ProyectosSeba\TecnicaBeProactive\Domain\bin\Debug\net8.0\Domain.dll
+C:\ProyectosSeba\TecnicaBeProactive\Domain\bin\Debug\net8.0\Domain.pdb
+C:\ProyectosSeba\TecnicaBeProactive\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\ProyectosSeba\TecnicaBeProactive\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosSeba\TecnicaBeProactive\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\ProyectosSeba\TecnicaBeProactive\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\ProyectosSeba\TecnicaBeProactive\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\ProyectosSeba\TecnicaBeProactive\Domain\obj\Debug\net8.0\Domain.dll
+C:\ProyectosSeba\TecnicaBeProactive\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\ProyectosSeba\TecnicaBeProactive\Domain\obj\Debug\net8.0\Domain.pdb
+C:\ProyectosSeba\TecnicaBeProactive\Domain\obj\Debug\net8.0\ref\Domain.dll

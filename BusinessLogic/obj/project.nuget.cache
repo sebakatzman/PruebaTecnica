@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "VWC89bdDBes=",
+  "success": true,
+  "projectFilePath": "C:\\ProyectosSeba\\TecnicaBeProactive\\BusinessLogic\\BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\serilog.extensions.logging\\8.0.0\\serilog.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\sqlite-net-pcl\\1.9.172\\sqlite-net-pcl.1.9.172.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.2\\sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\sebastian.katzman\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Se detectó una versión del paquete fuera de la restricción de dependencia: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requiere AutoMapper (= 12.0.1), pero la versión AutoMapper 13.0.1 ya se resolvió.",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio del origen https://urus-154429632881.d.codeartifact.us-east-2.amazonaws.com/nuget/urus.framework/v3/index.json."
+    }
+  ]
+}
